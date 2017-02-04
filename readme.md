@@ -14,6 +14,6 @@ Before starting the homework, I installed all the recommended packages onto Atom
 ## What I learned:
 * You can create text documents through the terminal and edit them without opening the actual document on the desktop.
 * My 340-work folder on my computer is connected to my Github online via Atom.  I am wondering if every document I put in the folder will now sync with Github, or if I have to use the command gitin to do it with another document.
-* The function of adding a code to a document still isn't all that clear to me, but am able to put one in a document: `git status`
+* The function of adding a code to a document still is not all that clear to me, but am able to put one in a document: `git status`
 
 ![Image of my editor](screenshot project1.jpg)
